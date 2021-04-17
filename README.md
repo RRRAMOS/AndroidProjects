@@ -15,7 +15,7 @@ com as informações do CEP consultado.
 -API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep.com.br/.
 
 - Status
-  Projeto Concluído.
+  Projeto em andamento
 
 - Dependências
   GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
