@@ -14,16 +14,16 @@ com as informações do CEP consultado.
 -Utilizado protocolos de comunicação e códigos XML e JSON.
 -API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep.com.br/.
 
-**Status**
+- Status
 
 -Projeto Concluído.
 
-**Dependências**
+- Dependências
 
 - GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
  de cadeia JSON para objetos Java.
 
-**Recursos Tecnológicos**
+- Recursos Tecnológicos
 
 - [Java]
 
