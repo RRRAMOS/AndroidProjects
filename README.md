@@ -18,25 +18,24 @@ Utilizado protocolos de comunicação e códigos XML e JSON.
   
 API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep.com.br/.
 
-```
+
 
 ## Status
 
-```
+
 Concluído.
-```
 
 ## Dependências
 
-```
+
 - GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
  de cadeia JSON para objetos Java.
 
-```
+
 
 ## Recursos Tecnológicos
 
-```
+
 - [Java]
 
 - [Android Studio]
@@ -44,9 +43,8 @@ Concluído.
 ```
 
 
-=====================================================================================
+====================================================================================
 ## Agradecimento
 
 ```
 - [Guilherme Girolli]
-
