@@ -9,7 +9,7 @@ Este repositório armazena projetos android. Cada pasta contem um app com funcio
  
 
 ## ConsultaCep
-=========
+
 ```
 Este app contém API que recebe um determinado CEP por meio da sua URL e retorna um arquivo JSON  
 com as informações do CEP consultado.
@@ -21,13 +21,13 @@ API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep
 ```
 
 ## Status
-============
+
 ```
 Concluído.
 ```
 
 ## Dependências
-=====
+
 ```
 - GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
  de cadeia JSON para objetos Java.
@@ -35,8 +35,8 @@ Concluído.
 ```
 
 ## Recursos Tecnológicos
-==========
- ```
+
+```
 - [Java]
 
 - [Android Studio]
@@ -46,7 +46,7 @@ Concluído.
 
 
 ## Agradecimento
-==========
+
 ```
 - [Guilherme Girolli]
 
