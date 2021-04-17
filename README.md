@@ -15,19 +15,15 @@ com as informações do CEP consultado.
 -API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep.com.br/.
 
 - Status
-
--Projeto Concluído.
+  Projeto Concluído.
 
 - Dependências
-
-- GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
- de cadeia JSON para objetos Java.
+  GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
+  de cadeia JSON para objetos Java.
 
 - Recursos Tecnológicos
-
-- [Java]
-
-- [Android Studio]
+  [Java]
+  [Android Studio]
 
 ```
 
