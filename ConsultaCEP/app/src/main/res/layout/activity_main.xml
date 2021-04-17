@@ -11,11 +11,11 @@
         android:id="@+id/txtInformacao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="42dp"
-        android:text="Informação"
+        android:text="Endereço"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/txtResultado"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnConsultar" />
 
@@ -23,24 +23,23 @@
         android:id="@+id/txtTitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="44dp"
-        android:layout_marginBottom="35dp"
         android:text="Informe o CEP:"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/edtCEP"
-        app:layout_constraintStart_toStartOf="@+id/edtCEP"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/edtCEP"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="65dp"
         android:ems="10"
         android:inputType="textPostalAddress"
         app:layout_constraintBottom_toTopOf="@+id/btnConsultar"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtTitulo" />
 
@@ -48,21 +47,21 @@
         android:id="@+id/btnConsultar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="99dp"
         android:backgroundTint="@color/teal_700"
         android:text="Consultar"
         app:layout_constraintBottom_toTopOf="@+id/txtInformacao"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edtCEP" />
 
     <TextView
         android:id="@+id/txtResultado"
-        android:layout_width="517dp"
-        android:layout_height="59dp"
-        android:layout_marginBottom="275dp"
+        android:layout_width="277dp"
+        android:layout_height="43dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtInformacao" />
 

@@ -1,6 +1,6 @@
 
 
-Este repositório armazena projetos android. Cada pasta contem um app com funcionalidades distintas 
+Este repositório armazena projetos android. Cada pasta contem um app com funcionalidades   distintas-vide índice. 
 
 
 Índice
@@ -8,32 +8,33 @@ Este repositório armazena projetos android. Cada pasta contem um app com funcio
    * [WebAPI](#consultaCep)
  
 
-ConsultaCep
+## ConsultaCep
 =========
 ```
-Este app contém API que recebe um determinado CEP por meio da sua URL e retorna um arquivo JSON com as informações do CEP consultado.
+Este app contém API que recebe um determinado CEP por meio da sua URL e retorna um arquivo JSON  
+com as informações do CEP consultado.
 
-utilizado protocolos de comunicação e códigos XML e JSON.
+Utilizado protocolos de comunicação e códigos XML e JSON.
   
-Esta API WEB é disponibilizada gratuitamente pelo site ViaCEP: https://viacep.com.br/.
-
+API WEB utilizada: ViaCEP,disponibilizada gratuitamente pelo site https://viacep.com.br/.
 
 ```
 
-Status
+## Status
 ============
 ```
 Concluído.
 ```
 
-Dependências
+## Dependências
 =====
 ```
-- GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão de cadeia JSON para objetos Java 
+- GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
+ de cadeia JSON para objetos Java.
 
 ```
 
-Recursos Tecnológicos
+## Recursos Tecnológicos
 ==========
  ```
 - [Java]
@@ -42,13 +43,9 @@ Recursos Tecnológicos
 
 ```
 
-Demonstração
-==========
-```
-```
 
 
-Agradecimentos
+## Agradecimento
 ==========
 ```
 - [Guilherme Girolli]
