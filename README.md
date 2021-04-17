@@ -2,7 +2,7 @@
 Este repositório armazena projetos android. Cada pasta contem um app com funcionalidades   distintas-vide índice. 
 
 ## Índice
-=============================
+
 
    * [WebAPI](#consultaCep)
  
@@ -32,6 +32,6 @@ com as informações do CEP consultado.
 ```
 
 ## Agradecimento
-
+**Recursos Tecnológicos**
 ```
 - [Guilherme Girolli]
