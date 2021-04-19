@@ -1,5 +1,6 @@
 
-Este repositório armazena projetos android. Cada pasta contem um app com funcionalidades   distintas-vide índice. 
+# AndroidProjects
+Repositório que armazena projetos android. Cada pasta contém um app com funcionalidades distintas-vide índice. 
 
 # Índice
 
