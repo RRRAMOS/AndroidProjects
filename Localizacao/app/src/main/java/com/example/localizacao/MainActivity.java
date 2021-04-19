@@ -18,7 +18,7 @@ import androidx.core.app.ActivityCompat;
 public class MainActivity extends AppCompatActivity {
 
     Button btnGpsProg;
-    TextView txtLatitudeProg, txtLongitudeProg;
+    TextView txtLatitudeProg, txtLongitudeProg, txtAltitudeProg;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         txtLatitudeProg = (TextView) findViewById(R.id.txtLatitude);
         txtLongitudeProg = (TextView) findViewById(R.id.txtLongitude);
+        txtAltitudeProg = (TextView) findViewById(R.id.txtAltitude);
 
         btnGpsProg = (Button) findViewById(R.id.btnGPS);
         btnGpsProg.setOnClickListener(new Button.OnClickListener() {
@@ -90,8 +91,10 @@ public class MainActivity extends AppCompatActivity {
     {
         Double longitude = location.getLongitude();
         Double latitude = location.getLatitude();
+        Double Altitude = location.getAltitude();
 
         txtLongitudeProg.setText(longitude.toString());
         txtLatitudeProg.setText(latitude.toString());
+        txtAltitudeProg.setText(Altitude.toString());
     }
 }
