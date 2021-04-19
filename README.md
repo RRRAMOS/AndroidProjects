@@ -3,7 +3,6 @@ Repositório que armazena projetos android. Cada pasta contém um app com funcio
 
 ## Índice
 
-
    * [WebAPI](#consultaCep)
    * [Localização por GPS](#localização)
  
@@ -33,7 +32,7 @@ com as informações do CEP consultado.
 ## Localização
 
 ```
--Quando o usuário clicar no botão o sistema apresentará a longitude e a latidude atual do local em que o usuario se encontra, de acordo com a localização do gps.
+-Quando o usuário clicar no botão o sistema apresentará a longitude, latidude e altitude atual do   local em que o usuário se encontra, de acordo com a localização do gps.
 
 -Necessita de permissão de utilização do hardware gps, pois este recurso vem bloqueado.
 
