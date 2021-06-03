@@ -1,10 +1,13 @@
 # AndroidProjects
-Repositório que armazena projetos android. Cada pasta contém um app com funcionalidades distintas-vide índice.
+Repositório que armazena projetos android. Cada pasta contém um app com funcionalidades distintas-vide índice. 
 
-## Índice
+-Recursos Tecnológicos : Linguagem Java e IDE Android Studio]
+
+# Índice
 
    * [WebAPI](#consultaCep)
    * [Localização por GPS](#localização)
+   * [Padrão MVC com BD SQLite](#AppCofre)
  
 ## ConsultaCep
 
@@ -20,26 +23,21 @@ com as informações do CEP consultado.
 -Dependências
  GSON : biblioteca Google para conversão de objetos Java em representação JSON e conversão  
  de cadeia JSON para objetos Java.
-
--Recursos Tecnológicos
- [Java]
-
- [Android Studio]
-
-
 ```
 
 ## Localização
 
 ```
--Quando o usuário clicar no botão o sistema apresentará a longitude, latidude e altitude atual do   local em que o usuário se encontra, de acordo com a localização do gps.
+-Quando o usuário clicar no botão o sistema apresentará a longitude e a latidude atual do local em que o usuario se encontra, de acordo com a localização do gps.
 
 -Necessita de permissão de utilização do hardware gps, pois este recurso vem bloqueado.
 
--Recursos Tecnológicos
- [Java]
+```
 
- [Android Studio]
+## AppCofre
+
+```
+-Aplicativo destinado a inserir, armazenar e controlar de senhas pessoais- vide Readme na pasta do app.
 
 ```
 
