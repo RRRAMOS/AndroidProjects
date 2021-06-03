@@ -28,7 +28,8 @@ com as informações do CEP consultado.
 ## Localização
 
 ```
--Quando o usuário clicar no botão o sistema apresentará a longitude e a latidude atual do local em que o usuario se encontra, de acordo com a localização do gps.
+-Quando o usuário clicar no botão o sistema apresentará a longitude e a latidude atual do local em que  
+ o usuario se encontra, de acordo com a localização do gps.
 
 -Necessita de permissão de utilização do hardware gps, pois este recurso vem bloqueado.
 
@@ -37,7 +38,7 @@ com as informações do CEP consultado.
 ## AppCofre
 
 ```
--Aplicativo destinado a inserir, armazenar e controlar de senhas pessoais- vide Readme na pasta do app.
+-Aplicativo destinado a inserir, armazenar e controlar senhas pessoais- vide Readme na pasta do app.
 
 ```
 
